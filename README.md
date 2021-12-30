@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently interning at A Reacreativa
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS, HTTP
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS, HTTP, ReactJS
 
 - 🤔 I’m looking for help with JavaScript, NodeJS
 
