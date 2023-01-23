@@ -37,7 +37,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<a href="www.linkedin.com/in/rogeriotsiqueira/" target="_blank">
+<a href="https://www.linkedin.com/in/rogeriotsiqueira/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RogerioSiqueira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/rogeriosq/" target="_blank">
