@@ -1,4 +1,4 @@
-<img align="right" width=28% src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
+<img align="right" width=28% src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif"/>
 
 <div align="center" >
  
