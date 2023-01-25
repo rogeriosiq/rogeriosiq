@@ -2,7 +2,7 @@
 
 <div align="center" >
  
-I"m Computer Science student at [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx),<br> currently working for [Pradolux](https://pradolux.com.br/) as a Software Developer
+I"m a Computer Science student at [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx),<br> currently working for [Pradolux](https://pradolux.com.br/) as a Software Developer
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriotsiqueira/)](https://www.linkedin.com/in/rogeriotsiqueira/)
   
