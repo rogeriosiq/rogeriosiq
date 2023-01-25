@@ -14,5 +14,10 @@ I"m a Computer Science student at [Pontifícia Universidade Católica de Minas G
   <img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Expo" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_expo.svg">
   <img align="center" alt="Python" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">                                                                                                                                                                                                                 
+  <img align="center" alt="Java" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg"> 
+  <img align="center" alt="C" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"> 
+  <img align="center" alt="Github" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="JS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+  
 </div>
