@@ -5,6 +5,7 @@
 I"m a Computer Science student at [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx),<br> currently working for [Pradolux](https://pradolux.com.br/) as a Software Developer
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriotsiqueira/)](https://www.linkedin.com/in/rogeriotsiqueira/)
+ ![](https://komarev.com/ghpvc/?username=rogeriosiq&color=006bed)
   
 <h4>Languages, frameworks and platforms of my daily life 🧑‍💻</h4>
 <div style="display: inline_block">
