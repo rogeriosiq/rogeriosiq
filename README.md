@@ -1,4 +1,3 @@
-<img align="right" width=28% src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif"/>
 
 <div align="center" >
  
